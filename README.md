@@ -2,10 +2,9 @@
 
 Cmyip CLI is a simple Python script that parses data returned from cmyip.com - a webpage that returns the IP address, hostname and GeoIP information about your client. This project is indented to be a fun weekend project but maybe people might actually find it useful!
 
-!(GPL3 Logo)[https://www.gnu.org/graphics/gplv3-127x51.png]
+![GPL3 Logo](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-Requirements:
-    - Python 3.2+
+Requirements: Python 3.2+
 
 ## Instructions
 
